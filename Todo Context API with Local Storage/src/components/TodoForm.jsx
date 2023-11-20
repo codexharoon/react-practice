@@ -14,7 +14,7 @@ function TodoForm() {
 
         addTodo({
             title : todo,
-            isCompleted : false
+            isComplete : false
         });
 
         setTodo("");
